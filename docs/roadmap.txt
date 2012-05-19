@@ -1,0 +1,4 @@
+
+* implement dynamic loading for JS / CSS scripts (perhaps using ScriptInjector - available on GWT 2.4 or higher).
+
+* port and adapt documentation from CodeMirror website

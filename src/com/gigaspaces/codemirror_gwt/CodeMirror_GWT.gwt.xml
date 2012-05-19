@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module rename-to='codemirror_gwt'>
+
+	<inherits name='com.google.gwt.user.User'/>
+	<inherits name='com.google.gwt.json.JSON'/>
+
+	<!-- code editor -->
+	<stylesheet src='CodeMirror-2.21/lib/codemirror.css' />
+	<script src='CodeMirror-2.21/lib/codemirror.js' />
+
+	<!-- themes -->
+<!-- 	<stylesheet src='CodeMirror-2.21/theme/cobalt.css' /> -->
+<!--	<stylesheet src='CodeMirror-2.21/theme/eclipse.css' /> -->
+<!--	<stylesheet src='CodeMirror-2.21/theme/elegant.css' /> -->
+<!--	<stylesheet src='CodeMirror-2.21/theme/monokai.css' /> -->
+<!--	<stylesheet src='CodeMirror-2.21/theme/neat.css' /> -->
+<!--	<stylesheet src='CodeMirror-2.21/theme/night.css' /> -->
+<!--	<stylesheet src='CodeMirror-2.21/theme/rubyblue.css' /> -->
+
+
+	<!-- utilities -->
+<!--	<script src='CodeMirror-2.21/lib/util/dialog.js' />           -->
+<!--	<stylesheet src='CodeMirror-2.21/lib/util/dialog.css' />      -->
+<!--	<script src='CodeMirror-2.21/lib/util/foldcode.js' />         -->
+<!--	<script src='CodeMirror-2.21/lib/util/formatting.js' />       -->
+<!-- 	<script src='CodeMirror-2.21/lib/util/javascript-hint.js' /> -->
+<!--	<script src='CodeMirror-2.21/lib/util/overlay.js' />          -->
+<!--	<script src='CodeMirror-2.21/lib/util/runmode.js' />          -->
+<!--	<script src='CodeMirror-2.21/lib/util/search.js' />           -->
+<!--	<script src='CodeMirror-2.21/lib/util/searchcursor.js' />     -->
+<!-- 	<script src='CodeMirror-2.21/lib/util/simple-hint.js' /> -->
+<!-- 	<stylesheet src='CodeMirror-2.21/lib/util/simple-hint.css' /> -->
+
+	<!-- modes -->
+<!--	<script src='CodeMirror-2.21/mode/clike/clike.js' />                 -->
+<!--	<script src='CodeMirror-2.21/mode/clojure/clojure.js' />             -->
+<!--	<script src='CodeMirror-2.21/mode/coffeescript/coffeescript.js' />   -->
+<!--	<script src='CodeMirror-2.21/mode/css/css.js' />                     -->
+<!--	<script src='CodeMirror-2.21/mode/diff/diff.js' />                   -->
+<!--	<script src='CodeMirror-2.21/mode/gfm/gfm.js' />                     -->
+<!--	<script src='CodeMirror-2.21/mode/go/go.js' />                       -->
+<!--	<script src='CodeMirror-2.21/mode/groovy/groovy.js' />               -->
+<!--	<script src='CodeMirror-2.21/mode/haskell/haskell.js' />             -->
+<!--	<script src='CodeMirror-2.21/mode/htmlembedded/htmlembedded.js' />   -->
+<!--	<script src='CodeMirror-2.21/mode/htmlmixed/htmlmixed.js' />         -->
+<!--  		<script src='CodeMirror-2.21/mode/javascript/javascript.js' /> -->
+<!--	<script src='CodeMirror-2.21/mode/jinja2/jinja2.js' />               -->
+<!--	<script src='CodeMirror-2.21/mode/less/less.js' />                   -->
+<!--	<script src='CodeMirror-2.21/mode/lua/lua.js' />                     -->
+<!--	<script src='CodeMirror-2.21/mode/markdown/markdown.js' />           -->
+<!--	<script src='CodeMirror-2.21/mode/mysql/mysql.js' />                 -->
+<!--	<script src='CodeMirror-2.21/mode/ntriples/ntriples.js' />           -->
+<!--	<script src='CodeMirror-2.21/mode/pascal/pascal.js' />               -->
+<!--	<script src='CodeMirror-2.21/mode/perl/perl.js' />                   -->
+<!--	<script src='CodeMirror-2.21/mode/php/php.js' />                     -->
+		<script src='CodeMirror-2.21/mode/plsql/plsql.js' />
+<!--	<script src='CodeMirror-2.21/mode/python/python.js' />               -->
+<!--	<script src='CodeMirror-2.21/mode/r/r.js' />                         -->
+<!--	<script src='CodeMirror-2.21/mode/rpm/changes/changes.js' />         -->
+<!--	<script src='CodeMirror-2.21/mode/rpm/spec/spec.js' />               -->
+<!--	<script src='CodeMirror-2.21/mode/rst/rst.js' />                     -->
+<!--	<script src='CodeMirror-2.21/mode/ruby/ruby.js' />                   -->
+<!--	<script src='CodeMirror-2.21/mode/rust/rust.js' />                   -->
+<!--	<script src='CodeMirror-2.21/mode/scheme/scheme.js' />               -->
+<!--	<script src='CodeMirror-2.21/mode/smalltalk/smalltalk.js' />         -->
+<!--	<script src='CodeMirror-2.21/mode/sparql/sparql.js' />               -->
+<!--	<script src='CodeMirror-2.21/mode/stex/stex.js' />                   -->
+<!--	<script src='CodeMirror-2.21/mode/tiddlywiki/tiddlywiki.js' />       -->
+<!--	<script src='CodeMirror-2.21/mode/velocity/velocity.js' />           -->
+<!--	<script src='CodeMirror-2.21/mode/verilog/verilog.js' />             -->
+<!--	<script src='CodeMirror-2.21/mode/xml/xml.js' />                     -->
+<!--	<script src='CodeMirror-2.21/mode/xmlpure/xmlpure.js' />             -->
+<!--	<script src='CodeMirror-2.21/mode/yaml/yaml.js' />                   -->
+
+	<!-- keymaps -->
+<!-- 	<script src='CodeMirror-2.21/keymap/emacs.js' /> -->
+<!-- 	<script src='CodeMirror-2.21/keymap/vim.js' /> -->
+
+</module>
